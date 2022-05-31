@@ -3,7 +3,7 @@ import React from "react";
 const Section1 = () => {
   return (
     <div className="bg-[#F2F2F2] pt-5">
-      <p class="or-divider">
+      <p className="or-divider">
         <span className="span">AVAILABLE FOR EVERYONE</span>
       </p>
       <h4 className="text-center">Here will be a text</h4>

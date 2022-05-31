@@ -7,6 +7,7 @@ import Title from "./components/Title";
 import Footer from "./components/Footer";
 import Slide from "./components/Slide";
 
+
 function App() {
   return (
     <div className="App">
@@ -17,6 +18,7 @@ function App() {
       <Title />
       <Slide />
       <Footer />
+      
     </div>
   );
 }
