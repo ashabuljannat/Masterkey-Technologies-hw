@@ -33,16 +33,17 @@
 .or-divider {
   position: relative;
   margin: 26px 0px;
-  font-size: 14px;
-  font-weight: 600;
+  
+ 
   width: 100%;
-  height: 0px;
+  height: 20px;
   border: 1px dashed #644f9c;
 }
 .span {
+  font-weight: 600;
   color: #644f9c;
   position: relative;
-  top: -20px;
+  top: -25px;
   background-color: #F2F2F2;
   padding: 0 20px;
   left: 40%;
@@ -50,29 +51,4 @@
   font-size: 30px;
 }
 
-/* 
-    <Nav className="px-5 w-4/5">
-              <Nav.Link href="#home" className="item">
-                HOME
-              </Nav.Link>
-              <Nav.Link href="#link" className="item">
-                ADVERTISERS
-              </Nav.Link>
-              <Nav.Link href="#link" className="item">
-                PUBLISHERS
-              </Nav.Link>
-              <Nav.Link href="#link" className="item">
-                INFLUENCERS
-              </Nav.Link>
-              <Nav.Link href="#link" className="item">
-                AD FORMATS
-              </Nav.Link>
-              <Nav.Link href="#link" className="item">
-                BLOG
-              </Nav.Link>
-              <Nav.Link href="#link" className="item">
-                CONTACT US
-              </Nav.Link>
-            </Nav>
 
-*/
